@@ -3,7 +3,7 @@
 Repository for BSURP 2020 microbiome research project
 
 Team members:
-Sawye Raygani
+Sawye Raygani and 
 Priscilla San Juan
 
 Here you will find data and script for microbiome analysis. This is version-controlled. 
