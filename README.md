@@ -7,11 +7,14 @@ When: February 2020 longitudinal sampling
 Where: National Kiwi Hatchery, Rotorua, NZ
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Authors: 
 - Priscilla San Juan
 - Emma Bean
 - Helen McCormick
 - Manpreet Dhami
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Processed data and script used for microbiome analysis available in this repository.
@@ -23,9 +26,12 @@ Data:
 
 Script:
 - to be uploaded..
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Raw data available in NeSI directory
 
 Location of raw data:
 /nesi/project/landcare02543/data/priscilla/kiwi2020
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
