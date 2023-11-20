@@ -32,7 +32,7 @@ Data (fungi):
 - Taxonomic assignment table (filename: fun_tax.csv)
 
 Script:
-- to be uploaded..
+- R_kiwi_mic_2020_analysis_code_submit.R
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
