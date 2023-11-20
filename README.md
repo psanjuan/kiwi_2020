@@ -1,6 +1,6 @@
 # Manuscript title: Kiwi development through a microbial lens: How time, local environment, and disease history influence the Brown Kiwi (Apteryx mantelli) gut microbiome
-# Submitted to Microbiome
-# Repository name: kiwi_2020
+### Submitted to Microbiome
+### Repository name: kiwi_2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 What: Repository for Kiwi gut microbiome project
