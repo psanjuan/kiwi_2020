@@ -21,10 +21,15 @@ Authors:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Processed data and script used for microbiome analysis available in this repository.
 
-Data:
+Data (bacteria):
 - sample metadata sheet (filename: sample_datasheet_kiwi_2020.csv)
 - Operational taxonomic unit (OTU) table (filename: bac_otu.csv)
 - Taxonomic assignment table (filename: bac_tax.csv)
+
+Data (fungi):
+- sample metadata sheet (filename: sample_datasheet_kiwi_2020.csv)
+- Operational taxonomic unit (OTU) table (filename: fun_otu.csv)
+- Taxonomic assignment table (filename: fun_tax.csv)
 
 Script:
 - to be uploaded..
